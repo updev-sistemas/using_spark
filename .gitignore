@@ -1,0 +1,10 @@
+# Ignorar diretórios
+bin/
+data/
+etc/
+lib/
+lib64/
+share/
+
+# Ignorar arquivo específico
+pyvenv.cfg
